@@ -37,7 +37,7 @@ Visualization: matplotlib, seaborn
  ## 📊 Results & Visualizations
 
 ### Learning Curve
-![Learning Curve](images/learning_curve.png)
+![Learning Curve](images/learning curve.png)
 
 ### Model Comparison
 ![Model Comparison](images/model_comparison.png)
